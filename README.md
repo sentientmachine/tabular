@@ -19,6 +19,13 @@ Demo
 
 ![Alt text](https://i.imgur.com/TtZMpVg.gif?raw=true "this text shows when user hovers mouse") 
 
+Guide
+==============
+
+[this subtext](./vimcasts-org-aligning-text-with-tabular-vim.pdf)
+
+
+
 
 Installation
 ==============
