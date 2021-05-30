@@ -41,7 +41,7 @@ Detailed Documentation.
 See [doc/Tabular.txt](http://raw.github.com/sentientmachine/tabular/master/doc/Tabular.txt)
 
 
-Bypassing installer, Jist for ripping out the source and grafting it onto our stack
+Bypassing installer, Jist for ripping out the source and grafting it onto autodeploy stack
 ==============
 
     copy and paste the file ./tabular/plugin/Tabular.vim into your ~/.vim/plugin/Tabular.vim
