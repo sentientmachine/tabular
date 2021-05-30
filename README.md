@@ -6,7 +6,7 @@ unpleasant.  While there are other plugins for aligning text, the ones I've
 tried are either impossibly difficult to understand and use, or too simplistic
 to handle complicated tasks.  This plugin aims to make the easy things easy
 and the hard things possible, without providing an unnecessarily obtuse
-interface.  It's still a work in progress, and criticisms are welcome.
+interface.
 
 See [Aligning Text with Tabular.vim](http://vimcasts.org/episodes/aligning-text-with-tabular-vim/)
 for a screencast that shows how Tabular.vim works.
