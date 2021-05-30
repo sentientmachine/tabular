@@ -16,10 +16,6 @@ Demo
 
 ![Alt text](https://i.imgur.com/TtZMpVg.gif?raw=true "this text shows when user hovers mouse") 
 
-Usage Guide
-==============
-
-[vimcasts-org-aligning-text-with-tabular-vim.pdf](./vimcasts-org-aligning-text-with-tabular-vim.pdf)
 
 Installation
 ==============
@@ -48,8 +44,15 @@ Bypassing installer, Jist for ripping out the source and grafting it onto autode
     copy and paste the file ./tabular/autoload/tabular.vim into your ~/.vim/plugin/tabular.vim
     copy and paste the file ./tabular/after/plugin/TabularMaps.vim into your ~/.vim/after/ftplugin/TabularMaps.vim
     
-Usage Example
+Most basic Usage Example
 ==============
 
     vim your_csv.csv
     :Tabularize /,
+
+Usage Guide
+==============
+
+Set throttle to ahead full.
+
+[vimcasts-org-aligning-text-with-tabular-vim.pdf](./vimcasts-org-aligning-text-with-tabular-vim.pdf)
