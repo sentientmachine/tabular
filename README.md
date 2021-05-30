@@ -11,7 +11,7 @@ interface.  It's still a work in progress, and criticisms are welcome.
 See [Aligning Text with Tabular.vim](http://vimcasts.org/episodes/aligning-text-with-tabular-vim/)
 for a screencast that shows how Tabular.vim works.
 
-Vim doc: [./tabular/doc/Tabular.txt](./tabular/doc/Tabular.txt?raw=true) for detailed documentation.
+Vim doc: ![./tabular/doc/Tabular.txt](/tabular/doc/Tabular.txt?raw=true "Detailed documentation") 
 
 
 
