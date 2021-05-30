@@ -14,6 +14,12 @@ for a screencast that shows how Tabular.vim works.
 See [doc/Tabular.txt](http://raw.github.com/godlygeek/tabular/master/doc/Tabular.txt)
 for detailed documentation.
 
+Demo
+==============
+
+![Alt text](https://i.imgur.com/TtZMpVg.gif?raw=true "this text shows when user hovers mouse") 
+
+
 Installation
 ==============
 If you don't have a preferred installation method, I recommend installing
