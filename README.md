@@ -40,3 +40,16 @@ Detailed Documentation.
 ==============
 See [doc/Tabular.txt](http://raw.github.com/sentientmachine/tabular/master/doc/Tabular.txt)
 
+
+Bypassing installer, Jist for ripping out the source and grafting it onto our stack
+==============
+
+    copy and paste the file ./tabular/plugin/Tabular.vim into your ~/.vim/plugin/Tabular.vim
+    copy and paste the file ./tabular/autoload/tabular.vim into your ~/.vim/plugin/tabular.vim
+    copy and paste the file ./tabular/after/plugin/TabularMaps.vim into your ~/.vim/after/ftplugin/TabularMaps.vim
+    
+Usage Example
+==============
+
+    vim your_csv.csv
+    :Tabularize /,
